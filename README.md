@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @aronmal
-- 👀 I’m interested in technology
+- 👀 I’m interested in hardware & software
 - 🌱 I’m currently learning C#, JS
 - 💞️ I’m looking to collaborate on open-source projects
-- 📫 How to reach me https://mal-noh.de/contact/
+- 📫 How to reach me : aron@mal-noh.de
+- ✨ Take a look at: https://mal-noh.de/
 
 <!---
 aronmal/aronmal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
