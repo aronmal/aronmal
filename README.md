@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aronmal
 - 👀 I’m interested in hardware & software
-- 🌱 I’m currently learning JS, ReactJS, MongoDB
+- 🌱 I’m currently learning Typescript, ReactJS, MongoDB
 - 💞️ I’m looking to collaborate on open-source projects
 - 📫 How to reach me : aron@mal-noh.de
 - ✨ Take a look at: https://mal-noh.de/
